@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47146f53-2e6b-4d0d-ad85-5f21dab0fcd4" name="Changes" comment="new files added">
+    <list default="true" id="47146f53-2e6b-4d0d-ad85-5f21dab0fcd4" name="Changes" comment="sum int">
+      <change afterPath="$PROJECT_DIR$/src/chapter2/CalculatingEnergy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/PopulationProjection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2/SumInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/SumInteger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
       <updated>1681265825689</updated>
       <workItem from="1681265827464" duration="5403000" />
       <workItem from="1681325878731" duration="5177000" />
-      <workItem from="1681424006083" duration="778000" />
+      <workItem from="1681424006083" duration="3248000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1681265908019</created>
@@ -167,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681424093671</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="sum int">
+      <created>1681425022168</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1681425022168</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +195,7 @@
     <MESSAGE value="feet to meters" />
     <MESSAGE value="gratutiy calculator" />
     <MESSAGE value="new files added" />
-    <option name="LAST_COMMIT_MESSAGE" value="new files added" />
+    <MESSAGE value="sum int" />
+    <option name="LAST_COMMIT_MESSAGE" value="sum int" />
   </component>
 </project>
