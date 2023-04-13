@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47146f53-2e6b-4d0d-ad85-5f21dab0fcd4" name="Changes" comment="area of a rectangle">
-      <change afterPath="$PROJECT_DIR$/src/PopulationControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RunnerSpeed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="47146f53-2e6b-4d0d-ad85-5f21dab0fcd4" name="Changes" comment="finished population projection plus kilo to mph">
+      <change afterPath="$PROJECT_DIR$/src/AverageSpeedKiloM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/TestCodeFix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681265825689</updated>
       <workItem from="1681265827464" duration="5403000" />
-      <workItem from="1681325878731" duration="1751000" />
+      <workItem from="1681325878731" duration="3214000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1681265908019</created>
@@ -110,7 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681271220472</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="finished population projection plus kilo to mph">
+      <created>1681333529646</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681333529646</updated>
+    </task>
+    <task id="LOCAL-00010" summary="finished population projection plus kilo to mph">
+      <created>1681333702255</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681333702255</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +136,7 @@
     <MESSAGE value="1.7 finished....my cat is sleeping next to my keyboard...." />
     <MESSAGE value="area and permiter of a circle" />
     <MESSAGE value="area of a rectangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="area of a rectangle" />
+    <MESSAGE value="finished population projection plus kilo to mph" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished population projection plus kilo to mph" />
   </component>
 </project>
