@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47146f53-2e6b-4d0d-ad85-5f21dab0fcd4" name="Changes" comment="area and vol of circle">
-      <change beforePath="$PROJECT_DIR$/src/chapter2/FeetToMeters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/FeetToMeters.java" afterDir="false" />
-    </list>
+    <list default="true" id="47146f53-2e6b-4d0d-ad85-5f21dab0fcd4" name="Changes" comment="gratutiy calculator" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681265825689</updated>
       <workItem from="1681265827464" duration="5403000" />
-      <workItem from="1681325878731" duration="4356000" />
+      <workItem from="1681325878731" duration="5177000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1681265908019</created>
@@ -144,7 +142,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681344733258</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="feet to meters">
+      <created>1681344921766</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1681344921766</updated>
+    </task>
+    <task id="LOCAL-00015" summary="gratutiy calculator">
+      <created>1681345172626</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1681345172626</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +173,8 @@
     <MESSAGE value="starting chapter 2" />
     <MESSAGE value="cel to fah converter created" />
     <MESSAGE value="area and vol of circle" />
-    <option name="LAST_COMMIT_MESSAGE" value="area and vol of circle" />
+    <MESSAGE value="feet to meters" />
+    <MESSAGE value="gratutiy calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="gratutiy calculator" />
   </component>
 </project>
