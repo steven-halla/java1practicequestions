@@ -17,7 +17,7 @@ public class CalculatingEnergy {
 
         double energyNeeded = waterKilo * (finalWaterTemp - initialWaterTemp) * 4184;
 
-        System.out.println("The energy needed is: " + energyNeeded + " joules.");
+        System.out.println("The joules needed is: " + energyNeeded + " joules.");
 
         scanner.close();
     }
