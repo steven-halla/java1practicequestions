@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47146f53-2e6b-4d0d-ad85-5f21dab0fcd4" name="Changes" comment="crated chapter 3 and a couple new classes">
-      <change afterPath="$PROJECT_DIR$/src/chapter3/NonDecreasingOrder.java" afterDir="false" />
+    <list default="true" id="47146f53-2e6b-4d0d-ad85-5f21dab0fcd4" name="Changes" comment="non decreating order">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter3/NonDecreasingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/NonDecreasingOrder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +78,7 @@
       <workItem from="1681498455342" duration="1680000" />
       <workItem from="1681537889471" duration="48000" />
       <workItem from="1681583088060" duration="4686000" />
-      <workItem from="1681589348033" duration="4579000" />
+      <workItem from="1681589348033" duration="5542000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1681265908019</created>
@@ -248,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681594887722</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="non decreating order">
+      <created>1681600196394</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1681600196394</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,6 +283,7 @@
     <MESSAGE value="investment calculator + renaming" />
     <MESSAGE value="cost of driving created class" />
     <MESSAGE value="crated chapter 3 and a couple new classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="crated chapter 3 and a couple new classes" />
+    <MESSAGE value="non decreating order" />
+    <option name="LAST_COMMIT_MESSAGE" value="non decreating order" />
   </component>
 </project>
