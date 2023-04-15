@@ -9,7 +9,7 @@ import java.util.Scanner;
 //0.45359237 this is per pound, so create a constant
 //0.0254 this is per inch, so create a constant
 //we are dealing with inputs so create scanner class
-public class computeBMI {
+public class ComputeBMI {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

@@ -6,13 +6,8 @@ import java.util.Scanner;
 //we need a constant
 //         double distance = Math.pow(Math.pow(x2 - x1, 2) + Math.pow(y2 - y1, 2), 0.5);
 
-import java.util.Scanner;
 
-import java.util.Scanner;
-
-import java.util.Scanner;
-
-public class distanceOfTwoPoints {
+public class DistanceOfTwoPoints {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
