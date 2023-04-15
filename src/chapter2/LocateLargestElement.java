@@ -15,8 +15,8 @@ public class LocateLargestElement {
 
         double[][] myArray = new double[rows][columns];
 
-        System.out.println("Enter the array elements:");
         for (int i = 0; i < rows; i++) {
+            System.out.printf("Enter row %d elements: ", i + 1);
             for (int j = 0; j < columns; j++) {
                 myArray[i][j] = input.nextDouble();
             }
@@ -24,6 +24,9 @@ public class LocateLargestElement {
 
         int[] largestElementLocation = locateLargest(myArray);
         System.out.printf("The location of the largest element is at (%d, %d)%n", largestElementLocation[0], largestElementLocation[1]);
+
+        System.out.println("The 2D array is:");
+        printArray(myArray);
 
         input.close();
     }
@@ -43,5 +46,14 @@ public class LocateLargestElement {
         }
 
         return largestElementLocation;
+    }
+
+    public static void printArray(double[][] array) {
+        for (double[] row : array) {
+            for (double element : row) {
+                System.out.printf("%6.2f ", element);
+            }
+            System.out.println();
+        }
     }
 }
