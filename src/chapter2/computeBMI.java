@@ -14,7 +14,7 @@ public class computeBMI {
         Scanner input = new Scanner(System.in);
 
         final double kiloGramConverter = 0.45359237;
-        final double metersConverter = 0.025495.;
+        final double metersConverter = 0.025495;
 
 
         System.out.print("Enter the number of pounds: ");
@@ -28,9 +28,6 @@ public class computeBMI {
 
         double bmi = kilograms / (meters * meters);
         System.out.println("Your BMI is: " + bmi);
-
-
-
 
     }
 }

@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47146f53-2e6b-4d0d-ad85-5f21dab0fcd4" name="Changes" comment="hw2.1 for java 2 is complete but I want to make improvements">
-      <change afterPath="$PROJECT_DIR$/src/chapter2/computeBMI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2/LocateLargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/LocateLargestElement.java" afterDir="false" />
+    <list default="true" id="47146f53-2e6b-4d0d-ad85-5f21dab0fcd4" name="Changes" comment="bmi converter finished">
+      <change afterPath="$PROJECT_DIR$/src/chapter2/distanceOfTwoPoints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter2/computeBMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/computeBMI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
       <workItem from="1681424006083" duration="4039000" />
       <workItem from="1681498455342" duration="1680000" />
       <workItem from="1681537889471" duration="48000" />
-      <workItem from="1681583088060" duration="922000" />
+      <workItem from="1681583088060" duration="1746000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1681265908019</created>
@@ -192,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681511868695</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="bmi converter finished">
+      <created>1681584147534</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1681584147534</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,6 +221,7 @@
     <MESSAGE value="sum int" />
     <MESSAGE value="years" />
     <MESSAGE value="hw2.1 for java 2 is complete but I want to make improvements" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw2.1 for java 2 is complete but I want to make improvements" />
+    <MESSAGE value="bmi converter finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="bmi converter finished" />
   </component>
 </project>
