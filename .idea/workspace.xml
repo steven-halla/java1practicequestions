@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47146f53-2e6b-4d0d-ad85-5f21dab0fcd4" name="Changes" comment="bmi converter, distance, and crated new hexigon measure class">
-      <change afterPath="$PROJECT_DIR$/src/chapter2/CalculateFutureInvestmentValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/HexagonArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/TriangleArea.java" afterDir="false" />
+    <list default="true" id="47146f53-2e6b-4d0d-ad85-5f21dab0fcd4" name="Changes" comment="cost of driving created class">
+      <change afterPath="$PROJECT_DIR$/src/chapter3/FutureDays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/SolveQuadraticEquation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2/computeBMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/ComputeBMI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2/distanceOfTwoPoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/DistanceOfTwoPoints.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2/hexagonSides.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter2/CostOfDriving.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/CostOfDriving.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +80,7 @@
       <workItem from="1681498455342" duration="1680000" />
       <workItem from="1681537889471" duration="48000" />
       <workItem from="1681583088060" duration="4686000" />
-      <workItem from="1681589348033" duration="1120000" />
+      <workItem from="1681589348033" duration="3546000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1681265908019</created>
@@ -232,7 +229,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681586094049</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="investment calculator + renaming">
+      <created>1681591644485</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1681591644485</updated>
+    </task>
+    <task id="LOCAL-00023" summary="cost of driving created class">
+      <created>1681591696841</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1681591696841</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,6 +268,8 @@
     <MESSAGE value="hw2.1 for java 2 is complete but I want to make improvements" />
     <MESSAGE value="bmi converter finished" />
     <MESSAGE value="bmi converter, distance, and crated new hexigon measure class" />
-    <option name="LAST_COMMIT_MESSAGE" value="bmi converter, distance, and crated new hexigon measure class" />
+    <MESSAGE value="investment calculator + renaming" />
+    <MESSAGE value="cost of driving created class" />
+    <option name="LAST_COMMIT_MESSAGE" value="cost of driving created class" />
   </component>
 </project>
