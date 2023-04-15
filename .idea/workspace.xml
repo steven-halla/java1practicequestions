@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47146f53-2e6b-4d0d-ad85-5f21dab0fcd4" name="Changes" comment="cost of driving created class">
-      <change afterPath="$PROJECT_DIR$/src/chapter3/FutureDays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/SolveQuadraticEquation.java" afterDir="false" />
+    <list default="true" id="47146f53-2e6b-4d0d-ad85-5f21dab0fcd4" name="Changes" comment="crated chapter 3 and a couple new classes">
+      <change afterPath="$PROJECT_DIR$/src/chapter3/NonDecreasingOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2/CostOfDriving.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/CostOfDriving.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +78,7 @@
       <workItem from="1681498455342" duration="1680000" />
       <workItem from="1681537889471" duration="48000" />
       <workItem from="1681583088060" duration="4686000" />
-      <workItem from="1681589348033" duration="3546000" />
+      <workItem from="1681589348033" duration="4579000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1681265908019</created>
@@ -243,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681591696841</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="crated chapter 3 and a couple new classes">
+      <created>1681594887722</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1681594887722</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,6 +275,7 @@
     <MESSAGE value="bmi converter, distance, and crated new hexigon measure class" />
     <MESSAGE value="investment calculator + renaming" />
     <MESSAGE value="cost of driving created class" />
-    <option name="LAST_COMMIT_MESSAGE" value="cost of driving created class" />
+    <MESSAGE value="crated chapter 3 and a couple new classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="crated chapter 3 and a couple new classes" />
   </component>
 </project>
