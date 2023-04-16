@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47146f53-2e6b-4d0d-ad85-5f21dab0fcd4" name="Changes" comment="non decreating order">
+      <change afterPath="$PROJECT_DIR$/src/chapter3/AdditionQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/DaysPerMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/ISBNChecker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter3/NonDecreasingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/NonDecreasingOrder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +80,7 @@
       <workItem from="1681498455342" duration="1680000" />
       <workItem from="1681537889471" duration="48000" />
       <workItem from="1681583088060" duration="4686000" />
-      <workItem from="1681589348033" duration="5542000" />
+      <workItem from="1681589348033" duration="6748000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1681265908019</created>
@@ -255,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681600196394</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="non decreating order">
+      <created>1681601071857</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1681601071857</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
