@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47146f53-2e6b-4d0d-ad85-5f21dab0fcd4" name="Changes" comment="non decreating order">
-      <change afterPath="$PROJECT_DIR$/src/chapter3/AdditionQuiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/DaysPerMonth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/ISBNChecker.java" afterDir="false" />
+    <list default="true" id="47146f53-2e6b-4d0d-ad85-5f21dab0fcd4" name="Changes" comment="pushiing addition days per month and isbn checker">
+      <change afterPath="$PROJECT_DIR$/src/chapter3/isPalinDromeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +78,8 @@
       <workItem from="1681498455342" duration="1680000" />
       <workItem from="1681537889471" duration="48000" />
       <workItem from="1681583088060" duration="4686000" />
-      <workItem from="1681589348033" duration="6748000" />
+      <workItem from="1681589348033" duration="6774000" />
+      <workItem from="1681707447674" duration="1315000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1681265908019</created>
@@ -264,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681601071857</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="pushiing addition days per month and isbn checker">
+      <created>1681613337059</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1681613337059</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,6 +299,7 @@
     <MESSAGE value="cost of driving created class" />
     <MESSAGE value="crated chapter 3 and a couple new classes" />
     <MESSAGE value="non decreating order" />
-    <option name="LAST_COMMIT_MESSAGE" value="non decreating order" />
+    <MESSAGE value="pushiing addition days per month and isbn checker" />
+    <option name="LAST_COMMIT_MESSAGE" value="pushiing addition days per month and isbn checker" />
   </component>
 </project>
