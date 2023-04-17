@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47146f53-2e6b-4d0d-ad85-5f21dab0fcd4" name="Changes" comment="pushiing addition days per month and isbn checker">
-      <change afterPath="$PROJECT_DIR$/src/chapter3/isPalinDromeNumber.java" afterDir="false" />
+    <list default="true" id="47146f53-2e6b-4d0d-ad85-5f21dab0fcd4" name="Changes" comment="heads or tails class created">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter3/HeadsOrTails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/HeadsOrTails.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,7 @@
       <workItem from="1681537889471" duration="48000" />
       <workItem from="1681583088060" duration="4686000" />
       <workItem from="1681589348033" duration="6774000" />
-      <workItem from="1681707447674" duration="1315000" />
+      <workItem from="1681707447674" duration="2576000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1681265908019</created>
@@ -270,7 +270,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681613337059</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="is number palindrome is done">
+      <created>1681708963813</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1681708963813</updated>
+    </task>
+    <task id="LOCAL-00029" summary="heads or tails class created">
+      <created>1681709032140</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1681709032140</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,6 +314,8 @@
     <MESSAGE value="crated chapter 3 and a couple new classes" />
     <MESSAGE value="non decreating order" />
     <MESSAGE value="pushiing addition days per month and isbn checker" />
-    <option name="LAST_COMMIT_MESSAGE" value="pushiing addition days per month and isbn checker" />
+    <MESSAGE value="is number palindrome is done" />
+    <MESSAGE value="heads or tails class created" />
+    <option name="LAST_COMMIT_MESSAGE" value="heads or tails class created" />
   </component>
 </project>
