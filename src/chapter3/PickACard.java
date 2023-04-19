@@ -2,11 +2,6 @@ package chapter3;
 
 import java.util.Random;
 
-import java.util.Random;
-
-import java.util.Random;
-
-import java.util.Random;
 
 public class PickACard {
     public static void main(String[] args) {
@@ -75,24 +70,9 @@ public class PickACard {
                 break;
         }
 
-
-
-
         System.out.println("Your card is " + cardValue + " of " + cardSuit);
     }
 }
 
 
 
-// we have values 2,3,4,5,6,7,8,9,10, jack, queen, king,ace
-// we have four suits
-
-// first we need a random value
-//then we assign that value a suit
-//three vars
-
-//one var for value
-//one var for suit
-// one var that combines the two
-//there are 52 cards in a deck
-// include an if statement if value is higher than 10
