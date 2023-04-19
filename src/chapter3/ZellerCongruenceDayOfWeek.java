@@ -25,11 +25,10 @@ public class ZellerCongruenceDayOfWeek {
         int q = currentDay;
 
         final int ZELLERCONGRUENCE = (q + ((26 * (m + 1)) / 10) + k + (k / 4) + (j / 4) + 5 * j) % 7;
-        int h = ZELLERCONGRUENCE;
 
         String dayOfWeek;
 
-        switch (h) {
+        switch (ZELLERCONGRUENCE) {
             case 0:
                 dayOfWeek = "Saturday";
                 break;
