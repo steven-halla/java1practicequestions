@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47146f53-2e6b-4d0d-ad85-5f21dab0fcd4" name="Changes" comment="rock paper scissors complested">
+    <list default="true" id="47146f53-2e6b-4d0d-ad85-5f21dab0fcd4" name="Changes" comment="zellers congrunece day of week">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter3/ZellerCongruenceDayOfWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/ZellerCongruenceDayOfWeek.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +81,7 @@
       <workItem from="1681589348033" duration="6774000" />
       <workItem from="1681707447674" duration="4474000" />
       <workItem from="1681786337260" duration="2280000" />
+      <workItem from="1681935886432" duration="1755000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1681265908019</created>
@@ -305,14 +307,20 @@
       <option name="project" value="LOCAL" />
       <updated>1681711487312</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="zellers congrunece day of week">
+      <created>1681936830243</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1681936830243</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1.7 finished....my cat is sleeping next to my keyboard...." />
     <MESSAGE value="area and permiter of a circle" />
     <MESSAGE value="area of a rectangle" />
     <MESSAGE value="finished population projection plus kilo to mph" />
@@ -337,6 +345,7 @@
     <MESSAGE value="heads or tails class finished" />
     <MESSAGE value="rock paper scissors created" />
     <MESSAGE value="rock paper scissors complested" />
-    <option name="LAST_COMMIT_MESSAGE" value="rock paper scissors complested" />
+    <MESSAGE value="zellers congrunece day of week" />
+    <option name="LAST_COMMIT_MESSAGE" value="zellers congrunece day of week" />
   </component>
 </project>
