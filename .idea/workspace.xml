@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47146f53-2e6b-4d0d-ad85-5f21dab0fcd4" name="Changes" comment="zellers congrunece day of week">
-      <change afterPath="$PROJECT_DIR$/src/chapter3/PointInCircle.java" afterDir="false" />
+    <list default="true" id="47146f53-2e6b-4d0d-ad85-5f21dab0fcd4" name="Changes" comment="point in a circle, pick a card">
+      <change beforePath="$PROJECT_DIR$/src/chapter3/PickACard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/PickACard.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +80,7 @@
       <workItem from="1681589348033" duration="6774000" />
       <workItem from="1681707447674" duration="4474000" />
       <workItem from="1681786337260" duration="2280000" />
-      <workItem from="1681935886432" duration="2055000" />
+      <workItem from="1681935886432" duration="3246000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1681265908019</created>
@@ -327,14 +327,20 @@
       <option name="project" value="LOCAL" />
       <updated>1681938070878</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="point in a circle, pick a card">
+      <created>1681939075522</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1681939075522</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="area and permiter of a circle" />
     <MESSAGE value="area of a rectangle" />
     <MESSAGE value="finished population projection plus kilo to mph" />
     <MESSAGE value="starting chapter 2" />
@@ -359,6 +365,7 @@
     <MESSAGE value="rock paper scissors created" />
     <MESSAGE value="rock paper scissors complested" />
     <MESSAGE value="zellers congrunece day of week" />
-    <option name="LAST_COMMIT_MESSAGE" value="zellers congrunece day of week" />
+    <MESSAGE value="point in a circle, pick a card" />
+    <option name="LAST_COMMIT_MESSAGE" value="point in a circle, pick a card" />
   </component>
 </project>
