@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47146f53-2e6b-4d0d-ad85-5f21dab0fcd4" name="Changes" comment="zellers congrunece day of week">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter3/ZellerCongruenceDayOfWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/ZellerCongruenceDayOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/PointInCircle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +80,7 @@
       <workItem from="1681589348033" duration="6774000" />
       <workItem from="1681707447674" duration="4474000" />
       <workItem from="1681786337260" duration="2280000" />
-      <workItem from="1681935886432" duration="1755000" />
+      <workItem from="1681935886432" duration="2055000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1681265908019</created>
@@ -314,7 +313,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681936830243</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="zellers congrunece day of week">
+      <created>1681938040732</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1681938040732</updated>
+    </task>
+    <task id="LOCAL-00035" summary="zellers congrunece day of week">
+      <created>1681938070878</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1681938070878</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
