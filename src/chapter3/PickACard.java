@@ -17,7 +17,7 @@ public class PickACard {
         Random playingCard = new Random();
         int randomNumber = playingCard.nextInt(13) + 1;
 
-        switch (randomNumber) {
+        switch(randomNumber) {
             case 1:
                 cardValue = "2";
                 break;
@@ -46,35 +46,37 @@ public class PickACard {
                 cardValue = "10";
                 break;
             case 10:
-                cardValue = "Jack";
+                cardValue = "jack";
                 break;
             case 11:
-                cardValue = "Queen";
+                cardValue = "queen";
                 break;
             case 12:
-                cardValue = "King";
+                cardValue = "king";
                 break;
             case 13:
-                cardValue = "Ace";
+                cardValue = "ace";
                 break;
+
         }
-
         randomNumber = playingCard.nextInt(4) + 1;
-
-        switch (randomNumber) {
+        switch (randomNumber){
             case 1:
-                cardSuit = "Clubs";
+                cardSuit = "clubs";
                 break;
             case 2:
-                cardSuit = "Diamonds";
+                cardSuit = "diamonds";
                 break;
             case 3:
-                cardSuit = "Hearts";
+                cardSuit = "hearts";
                 break;
             case 4:
-                cardSuit = "Spades";
+                cardSuit = "spades";
                 break;
         }
+
+
+
 
         System.out.println("Your card is " + cardValue + " of " + cardSuit);
     }
