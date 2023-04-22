@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47146f53-2e6b-4d0d-ad85-5f21dab0fcd4" name="Changes" comment="pick a card">
-      <change beforePath="$PROJECT_DIR$/src/chapter3/PickACard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/PickACard.java" afterDir="false" />
+    <list default="true" id="47146f53-2e6b-4d0d-ad85-5f21dab0fcd4" name="Changes" comment="code cleaning">
+      <change afterPath="$PROJECT_DIR$/src/chapter3/IntersectingPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/TrianglePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/TwoCircles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +83,8 @@
       <workItem from="1681589348033" duration="6774000" />
       <workItem from="1681707447674" duration="4474000" />
       <workItem from="1681786337260" duration="2280000" />
-      <workItem from="1681935886432" duration="3769000" />
+      <workItem from="1681935886432" duration="4420000" />
+      <workItem from="1682134123997" duration="1737000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1681265908019</created>
@@ -341,15 +345,27 @@
       <option name="project" value="LOCAL" />
       <updated>1681939968790</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="pick a card improved">
+      <created>1681940287669</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1681940287669</updated>
+    </task>
+    <task id="LOCAL-00039" summary="code cleaning">
+      <created>1681940717784</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1681940717784</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="finished population projection plus kilo to mph" />
-    <MESSAGE value="starting chapter 2" />
     <MESSAGE value="cel to fah converter created" />
     <MESSAGE value="area and vol of circle" />
     <MESSAGE value="feet to meters" />
@@ -373,6 +389,8 @@
     <MESSAGE value="zellers congrunece day of week" />
     <MESSAGE value="point in a circle, pick a card" />
     <MESSAGE value="pick a card" />
-    <option name="LAST_COMMIT_MESSAGE" value="pick a card" />
+    <MESSAGE value="pick a card improved" />
+    <MESSAGE value="code cleaning" />
+    <option name="LAST_COMMIT_MESSAGE" value="code cleaning" />
   </component>
 </project>
